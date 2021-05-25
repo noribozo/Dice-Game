@@ -1,4 +1,3 @@
 # Dice-Game
-Scrimba tutorial, but I mostly wrote the code by myself
-
-Now, I rebuilt it from scratch as a practice. 
+This was a part of my Scrimba frontend dev course and I rebuilt it as a practice.
+It is mainly JavaScript practice with event listeners and some built-in JS functions such as classList.add(). 
